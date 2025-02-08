@@ -1,0 +1,17 @@
+Create web application using CodeIgniter Framework which will contain following features-
+
+1. Main blog page which will show blogs in grid format.
+
+2. If a user clicks on any blog then it will redirect to the respective blog page.
+
+3. Blogs should contain Blog image, blog short content, blog main content, blog author name, blog category & blog creation date. All this information will be shown on blog page.
+
+4. Blog grid view contains blog image, short content & blog author name.
+
+5. Individual blog page will have sidebar which will contain links for other blogs.
+
+6. There should be a feature to add meta title, keywords & meta description for individual blog.
+
+7. Create Admin panel to add all blog related details as mentioned above.
+
+8. All admin panel & front-end functionality should work without page reload. Use AJAX to do CRUD operations on blog in admin panel & also on home page of website when user clicks on blog or on any sidebar link, new page should be opened without page reload.
